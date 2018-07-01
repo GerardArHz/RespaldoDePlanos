@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import Text from '../comunes/Text';
-import DatePicker from 'material-ui/DatePicker';
-import Paper from 'material-ui/Paper';
 import RaisedButton from 'material-ui/RaisedButton';
 
 class ModificarUsuario extends Component {

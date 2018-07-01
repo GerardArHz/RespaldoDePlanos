@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Paper,FlatButton, TextField } from 'material-ui';
 import logo from './image/logo.png';
-import logo1 from './image/Logo-TecNM.png';
 import AppIndex from './AppIndex';
 import axios from 'axios';
 
